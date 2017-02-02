@@ -1,3 +1,3 @@
 # py_dev
-# Rock , Papaer, Sciccors demo
+# Rock , Paper, Scissors demo
 # Demonstration of use of libs , random, and lists
